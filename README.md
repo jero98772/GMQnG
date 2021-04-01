@@ -2,6 +2,8 @@
 ### what is this?
 GAS mq Not is [ GAS ,GAS FROM GASTAR](https://jero98772.pythonanywhere.com/proyects/gasinfo.html)  get gas mesure of metano (CH4)
 
+**can mesure other gases with other MQ sensor **
+
 is very helpful for detect gas leaks , and avoid exploitation or a penalty
 ### what do you need
 ### hardware
