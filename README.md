@@ -23,6 +23,3 @@ some libraries like
 ![image](http://wiki.unloquer.org/_media/personas/jero98772/screenshot_20210318-214953.png)
 #### hardware
 ![image](http://wiki.unloquer.org/_media/personas/jero98772/img_20210319_092106.jpg)
-# contribute 	
-	    
-      - Bitcoin: bc1qj7upax8znfda0varuy34jnae8q23ksve35j6y7
